@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30853" started-at="2022-07-13T16:26:58 BST" finished-at="2022-07-13T16:27:29 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30853" started-at="2022-07-13T16:26:58 BST" finished-at="2022-07-13T16:27:29 BST">
+      <class name="com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended">
+        <test-method status="PASS" signature="readFile()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="readFile" is-config="true" duration-ms="20" started-at="2022-07-13T16:26:58 BST" finished-at="2022-07-13T16:26:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readFile -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="setUp" is-config="true" duration-ms="6657" started-at="2022-07-13T16:26:59 BST" finished-at="2022-07-13T16:27:06 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="loginTest" duration-ms="2550" started-at="2022-07-13T16:27:06 BST" data-provider="getData" finished-at="2022-07-13T16:27:09 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz0617]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Search Hotel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="tearDown" is-config="true" duration-ms="853" started-at="2022-07-13T16:27:09 BST" finished-at="2022-07-13T16:27:09 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="setUp" is-config="true" duration-ms="4849" started-at="2022-07-13T16:27:09 BST" finished-at="2022-07-13T16:27:14 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="loginTest" duration-ms="714" started-at="2022-07-13T16:27:14 BST" data-provider="getData" finished-at="2022-07-13T16:27:15 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz0617]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Hotel Reservation System]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="tearDown" is-config="true" duration-ms="811" started-at="2022-07-13T16:27:15 BST" finished-at="2022-07-13T16:27:16 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="setUp" is-config="true" duration-ms="4971" started-at="2022-07-13T16:27:16 BST" finished-at="2022-07-13T16:27:21 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="loginTest" duration-ms="702" started-at="2022-07-13T16:27:21 BST" data-provider="getData" finished-at="2022-07-13T16:27:22 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz1212]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Hotel Reservation System]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="tearDown" is-config="true" duration-ms="810" started-at="2022-07-13T16:27:22 BST" finished-at="2022-07-13T16:27:22 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="setUp" is-config="true" duration-ms="5186" started-at="2022-07-13T16:27:22 BST" finished-at="2022-07-13T16:27:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="loginTest" duration-ms="747" started-at="2022-07-13T16:27:28 BST" data-provider="getData" finished-at="2022-07-13T16:27:28 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[reyaz1212]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyaz456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adactin.com - Hotel Reservation System]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended@67205a84]" name="tearDown" is-config="true" duration-ms="813" started-at="2022-07-13T16:27:28 BST" finished-at="2022-07-13T16:27:29 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.scripts.regression.ValidateLoginPOM2UsingDataProviderExcelRecommended -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
