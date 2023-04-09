@@ -72,9 +72,6 @@ public class BaseTest {
 		reports.flush(); //reporting is done by this flush method, as we close report by this
 	}
 	
-	
-	
-	
 	@BeforeClass
 	public void readFiles() throws IOException
 	{
